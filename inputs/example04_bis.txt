@@ -1,0 +1,8 @@
+pid:067285985 hcl:#ceb3a1 cid:281
+ecl:#07219a eyr:1944
+iyr:2025
+byr:2029 hgt:64cm
+
+ecl:blu iyr:2018 pid:943614755 cid:335
+byr:1968
+eyr:2026

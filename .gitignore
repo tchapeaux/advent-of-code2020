@@ -1,0 +1,4 @@
+# Do not publish my secret session cookie
+.secret_session_cookie
+# do not publish the (copyrighted) inputs
+inputs/day*.txt
