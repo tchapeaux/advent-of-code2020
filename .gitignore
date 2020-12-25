@@ -2,3 +2,7 @@
 .secret_session_cookie
 # do not publish the (copyrighted) inputs
 inputs/day*.txt
+
+# also ignore config/cache files
+.vscode/settings.json
+__pycache__
